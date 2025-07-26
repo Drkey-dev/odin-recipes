@@ -1,1 +1,1 @@
-# odin-recipes
+Doing my first odin projet after completing HTML basis.
